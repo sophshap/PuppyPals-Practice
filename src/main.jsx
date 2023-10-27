@@ -7,7 +7,7 @@ import './index.css'
 // importing whole app component wand rendering to the DOM
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+
+  <App />
+
 )
